@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "application.jwt.secretkey",
+      "type": "java.lang.String",
+      "description": "Description for application.jwt.secretkey."
+    },
+    {
+      "name": "application.jwt.tokenExprirationAfterDays",
+      "type": "java.lang.String",
+      "description": "Description for application.jwt.tokenExprirationAfterDays."
+    },
+    {
+      "name": "application.jwt.tokenPrefix",
+      "type": "java.lang.String",
+      "description": "Description for application.jwt.tokenPrefix."
+    }
+  ] }
